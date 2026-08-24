@@ -43,7 +43,7 @@ import { ActivatedRoute, Router, RouterLink } from '@angular/router';
               <img [src]="heroImage()" [alt]="title()" class="hero-image" />
               <div class="hero-badge glass-card p-3">
                 <span class="badge-fashion">Atelier edit</span>
-                <strong>Luxurious silhouettes, neutral tones, and curated essentials. jihen application test push</strong>
+                <strong>Luxurious silhouettes, neutral tones, and curated essentials. jihen application</strong>
               </div>
             </div>
           </div>
